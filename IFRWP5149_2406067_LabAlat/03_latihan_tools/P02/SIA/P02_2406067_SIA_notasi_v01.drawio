@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram id="Wqtlp2KX5Rk-R0OBJuXh" name="Page-1">
+    <mxGraphModel dx="740" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;height=60;" value="Sistem Informasi Akademik: pemeriksaan dan perbaikan notasi" vertex="1">
+          <mxGeometry height="310" width="340" x="175" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-5" parent="Adp0-kANaGgZI0E3G1bw-1" style="ellipse;html=1;whiteSpace=wrap;" value="Lihat jadwal kuliah" vertex="1">
+          <mxGeometry height="100" width="130" x="30" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-6" parent="Adp0-kANaGgZI0E3G1bw-1" style="ellipse;html=1;whiteSpace=wrap;" value="Kelola jadwal kuliah" vertex="1">
+          <mxGeometry height="100" width="130" x="200" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-7" edge="1" parent="1" source="Adp0-kANaGgZI0E3G1bw-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="Adp0-kANaGgZI0E3G1bw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-8" edge="1" parent="1" source="Adp0-kANaGgZI0E3G1bw-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="Adp0-kANaGgZI0E3G1bw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Adp0-kANaGgZI0E3G1bw-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="60" width="30" x="570" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
